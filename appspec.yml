@@ -10,6 +10,6 @@ permissions:
     mode: 777
 hooks:
     BeforeInstall:
-    - location: scripts/install_dependencies
+    - location: script/install_dependencies
       timeout: 300
       runas: root
