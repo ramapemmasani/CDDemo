@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /magento
+  - source: /
     destination: /var/www/html/ 
   
 permissions:
