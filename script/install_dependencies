@@ -1,7 +1,0 @@
-#!/bin/bash
-cd /var/ww/html/
-git clone https://github.com/magento/magento2.git
-cd magento2
-composer install
-chmod -R 777 .
-
